@@ -1,2 +1,2 @@
 # Choquify
-React Native App integrated with Spotify API to make album collections
+Next App integrated with Spotify API to make album collections
